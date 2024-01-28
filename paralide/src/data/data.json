@@ -1,0 +1,31 @@
+[
+    {
+        "title": {
+            "text": "Title1",
+            "alignment": "left"
+        },
+        "description": {
+            "text": "Description One of Ten.",
+            "alignment": "left"
+        },
+        "assets": [
+            {
+                "images": [
+                    {
+                        "source": "src1",
+                        "alignment": "null"
+                    },
+                    {
+                        "source": "src2",
+                        "alignment": "null"
+                    },
+                    {
+                        "source": "src3",
+                        "alignment": "null"
+                    }
+                ],
+                "mode": "cards"
+            }
+        ]
+    }
+]
